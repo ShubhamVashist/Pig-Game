@@ -8,4 +8,5 @@ First player will roll the dice. Now he has 2 options either hold the score or r
    hold button to his final score.
    
    <------Same rules for player 2------>
+   First Player to reach score of 100 wins.
    <------Happy Playing Pig Game ------>
