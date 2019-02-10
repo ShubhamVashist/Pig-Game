@@ -7,5 +7,5 @@ First player will roll the dice. Now he has 2 options either hold the score or r
    Other than dice score 1, all other dice score will be added to his current score and if he hits
    hold button to his final score.
    
-   ------Same rules for player 2------
-   ------Happy Playing Pig Game ------
+   <------Same rules for player 2------>
+   <------Happy Playing Pig Game ------>
